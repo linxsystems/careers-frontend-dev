@@ -1,0 +1,17 @@
+.main {
+    background-color: bisque;
+    min-height: 100vh;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo-container {
+    background-color: oldlace;
+    border-radius: 10px;
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+}
