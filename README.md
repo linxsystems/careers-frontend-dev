@@ -12,7 +12,7 @@ Base code is available here: https://snack.expo.dev/@linxsystems/tech-ii-songs-a
 3. Make an API call to fetch from:
     * https://rss.applemarketingtools.com/api/v2/us/music/most-played/20/songs.json
     * https://rss.applemarketingtools.com/api/v2/gb/music/most-played/20/songs.json
-    * https://rss.applemarketingtools.com/api/v2/de/music/most-played/10/songs.json
+    * https://rss.applemarketingtools.com/api/v2/de/music/most-played/20/songs.json
 4. Setup the redux logic for toggling a song into the Favorites section. A song should only appear in this section once.
 
 Refer to the given mockup to write a clean UI with good UX. Please organize, design, test and document your code as if it were going into production. Add any required dependencies to the package.json file.
