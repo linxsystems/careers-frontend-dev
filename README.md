@@ -4,6 +4,8 @@ Congratulations! You've been doing great and are a top contender. 👍
 
 ## App Instructions
 
+Base code is available here: https://snack.expo.dev/@linxsystems/tech-ii-songs-app.
+
 1. Your App should have 2 bottom tabs - Home and Favorites. Home tab should have multiple sections of song carousels (United States, UK, Germany). Favorites tab should
    show a list of items in the Favorites list, and handle empty list.
 2. Create a UI to show a horizontal carousel of songs. Carousel should be reusable, and have indicators for data loading and empty data. Each carousel item should have a          button to add the song to the Favorites list.
